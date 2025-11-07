@@ -10,7 +10,7 @@ It is fully **responsive**, interactive, and visually appealing across desktop, 
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
+You can view the live website here: [Live Demo](https://junaidmsport.netlify.app/)
 
 ---
 
@@ -46,12 +46,6 @@ You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.
 
 ---
 
-## License
-
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
-
----
-
 ## 🚀 How to Use / Customize
 
 1. **Clone the repository:**
@@ -68,8 +62,4 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
-
-
-```bash
-git clone https://github.com/Saboo24/portfolio-showcase.git
+Made with ❤️ by **Junaid Usman**
