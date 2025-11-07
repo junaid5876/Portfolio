@@ -127,6 +127,7 @@ header {
 }
 
 .btn-home2 {
+  text-decoration: none;
   background-color: transparent;
   border: 2px solid black;
   border-radius: 10px;
@@ -878,3 +879,4 @@ body {
     overflow-x: hidden;
   }
 }
+
